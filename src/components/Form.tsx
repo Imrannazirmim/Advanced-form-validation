@@ -41,7 +41,7 @@ const Form = () => {
           type="text"
           id="name"
           className="form-control"
-          placeholder="enter your name"
+          placeholder="enter your name"          
 
           // ref={nameRef}
 
